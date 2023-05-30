@@ -2,7 +2,6 @@ import ExpenseItem from "./ExpenseItem";
 import Card from "./Card";
 
 function Expense(props) {
-
   return (
     <Card className="expenses">
       <ExpenseItem
